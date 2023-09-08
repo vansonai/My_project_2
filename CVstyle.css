@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: auto;
+    width: 1200px;
+    height: auto;
+    display: flex;
+}
+
+.information {
+    width: 300px;
+}
+
+.experience {
+    width: 800px;
+}
+.avatar img {
+    width: 150px;
+    margin-left: 50px;
+}
